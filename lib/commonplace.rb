@@ -3,7 +3,7 @@ require 'redcarpet'
 
 class Commonplace
 	attr_accessor :dir
-	
+
 	# initialize our wiki class
 	def initialize(dir)
 		@dir = dir
@@ -83,12 +83,13 @@ class Commonplace
 end
 
 class Page
+
 	attr_accessor :name, :permalink
 	
 	def initialize(content, filename, wiki)
 		@content = content # the raw page content
 		@permalink = filename
-		@name = filename.gsub('_', ' ').capitalize
+		@name = filename.gsub('_', ' ')
 		@wiki = wiki
 	end
 	

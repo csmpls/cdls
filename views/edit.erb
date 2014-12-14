@@ -1,5 +1,29 @@
+<link rel="stylesheet" href="//cdn.jsdelivr.net/editor/0.1.0/editor.css">
+<script src="//cdls.cosmopol.is/js/editor.js"></script>
+<script src="//cdn.jsdelivr.net/editor/0.1.0/marked.js"></script>
+<style type="text/css">
+      body {
+        background-color: #f9f9f7;
+        max-width:680px;
+        padding:0 2em;
+        margin: 0 auto;
+      }
+    </style>
+
 <form action="/p/<%= @page.permalink %>/edit" method="post" class="form-stacked">
-	<label for="content">Page content</label>
-	<textarea id="content" class="xlarge" name="content"><%= @page.raw %></textarea>		
+
+<div class="editor-wrapper">
+      <textarea id="editor" placeholder="write a page....."><%= @page.raw %></textarea>
+    </div>
+    <!-- only required for loading sample markdown into the textarea -->
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/zepto/1.0/zepto.min.js"></script> 
+    <script type="text/javascript">
+      var editor = new Editor({
+	tools: false,
+      });
+      editor.render();
+    //(Zepto);
+    </script>
+
 	<input type="submit" value="Save page" class="btn primary small">
 </form>

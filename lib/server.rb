@@ -27,7 +27,7 @@ class CommonplaceServer < Sinatra::Base
 	
 	# show the homepage
 	get '/' do
-		show('home')
+		show('your_garden')
 	end
 	
 	# show the known page list

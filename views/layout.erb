@@ -4,12 +4,14 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;">
 	<link href='http://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'>
-	<link rel="stylesheet" href="/css/screen.css">	
+<!--	<link rel="stylesheet" href="http://cdls.cosmopol.is/css/screen.css">	-->
+	<link rel="stylesheet" href="http://cdls.cosmopol.is/css/now.css">	
+	<!--<link rel="stylesheet" href="http://cdls.cosmopol.is/css/editor.css" />-->
 </head>
 <body>
 	<section id="content">
 		<article id="page">
-			<h1 class="title"><%= '<a href="/">Home</a> &gt; ' if @name != "Home" %><%= @name %></h1>
+			<h1 class="title"><%= '<a href="/">(cdls)</a> &gt; ' if @name != "your garden" %><%= @name %></h1>
 			<% if @alert %>
 				<div class="alert-message error"><%= @alert %></div>
 			<% end %>
@@ -32,7 +34,7 @@
 	</section>
 		
 	<footer>
-		Powered by <a href="https://github.com/fredoliveira/commonplace">Commonplace</a>, designed and developed by <a href="http://helloform.com">Fred Oliveira</a>. Source code and updates are <a href="https://github.com/fredoliveira/commonplace">on Github</a>.
+	visual space has essentially no owner
 	</footer>
 </body>
 </html>

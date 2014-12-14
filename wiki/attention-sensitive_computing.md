@@ -1,0 +1,5 @@
+i hate how software sucks our attention into it. our faces are often in our phones, but our minds are on our phones all the time. how can we interact with computing in a cognitively non-invasive way? how can we make computing as (cognitively) invisible as a ballpoint pen?
+
+my first foray into this question is [[interest miner]], which seeks to (1) see if we can reliably detect interest with EEG (2) see if EEG-detected interest can produce enjoyable news feeds. in broader and more handwavey timescales, i want to explore interactions in which the user and the software "negotiate" (navigate?) the user's attention - a dialogue in which both parties must take cues from the other.
+
+my second foray has to do with [[wearables]]. how can we make non-interactable devices that give us all the peace-of-mind & security that our cellphones (or laptops or w/e) do?
