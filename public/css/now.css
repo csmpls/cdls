@@ -1,5 +1,6 @@
 body {
   margin: 0 2em;
+  max-width:50em;
 }
 /*
       body {
@@ -10,30 +11,33 @@ body {
       }
 */
 
+.tools {
+  padding-top:0.9em;
+  margin-top: 1.9em;
+  border-top: 1px solid #eee;
+  width: 18em;
+  position: float;
+}
+.tools a {
+  color:#000;
+  font-size:9pt;
+  font-style:bold;
+  padding-right:12px;
+}
+.editor-wrapper {
+  max-width:680px;
+  margin: 0 auto;
+}
 footer {
  font-size:9pt;
- padding-top:10pt;
+ padding-top:6pt;
+ padding-bottom:20pt;
 }
 hr {
   border: 1px solid #eee;
   margin: 2em auto 1em 0;
   max-width: 40em;
 }
-#page {
-  max-width:50em;
-}
-.tools {
-  padding-top:0.9em;
-  margin-top: 3.9em;
-  border-top: 1px solid #eee;
-  width: 18em;
-  position: float;
-}
-.editor-wrapper {
-  max-width:680px;
-  margin: 0 auto;
-}
-
 
 /* highlight links */
 #page a {
