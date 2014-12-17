@@ -1,9 +1,29 @@
-<form action="/p/save" method="post" class="form-stacked">
-	<label for="content">Page content</label>
-	<textarea id="content" class="xlarge" name="content"><%= @content if @content %></textarea>		
-	
-	<label for="name">Document name</label>
-	<input type="text" name="filename" id="filename" placeholder="Page name" <%= "value=\"#{@newpagename}\"" if @newpagename %> />
-	
-	<input type="submit" value="Save page" class="btn primary small">
+<link rel="stylesheet" href="//cdn.jsdelivr.net/editor/0.1.0/editor.css">
+<script src="//cdls.cosmopol.is/js/editor.js"></script>
+<script src="//cdn.jsdelivr.net/editor/0.1.0/marked.js"></script>
+<script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+<style type="text/css">
+      body {
+        background-color: #f9f9f7;
+      }
+    </style>
+
+<form action="/p/save" method="post">
+      <textarea id="content" name="content" placeholder="write a page....."></textarea>
+   <input type="submit" value="Save page" onclick="postContent()">
+</div>
 </form>
+
+<!-- only required for loading sample markdown into the textarea -->
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/zepto/1.0/zepto.min.js"></script>
+<script type="text/javascript">
+
+var editor = new Editor();
+editor.render();
+
+function postContent() {
+  var content = editor.codemirror.getValue();
+  $('.content').html(content);
+  $('postSubmissionForm').submit();
+}
+</script>

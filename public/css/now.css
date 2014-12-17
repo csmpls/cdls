@@ -1,7 +1,11 @@
+
 body {
-  margin: 0 2em;
-  max-width:50em;
+  max-width:680px;
+  margin: 0 auto;
+  padding:0 2em;
 }
+
+
 /*
       body {
         background-color: #f9f9f7;

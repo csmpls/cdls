@@ -7144,7 +7144,7 @@ function Editor(options) {
 
   options.toolbar = options.toolbar || Editor.toolbar;
   // you can customize toolbar with object
-  // [{name: 'bold', shortcut: 'Ctrl-B', className: 'icon-bold'}]
+  //options.toolsbar = [{name: 'preview', shortcut: 'Ctrl-B', className: 'icon-preview'}]
 
   if (!options.hasOwnProperty('status')) {
     options.status = ['lines', 'words', 'cursor'];

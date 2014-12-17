@@ -3,6 +3,7 @@
 - copypaste doesnt work?
 - youtube/img embeds
 - fix up the homepage
+- should be wss:// and https:// why not
 
 ## longer-term
 - grid-based color selection instead of popup?

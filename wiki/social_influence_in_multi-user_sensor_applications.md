@@ -1,4 +1,4 @@
-# How do multi-user sensor applications affect user behavior?
+## How do multi-user sensor applications affect user behavior?
 
 Traditional sensor-based applications give the user "n-of-one" feedback, collecting data from the user and displaying it back to her (cf. Fitbit, BASIS, Samsung Gear, etc). However, some applications are beginning to integrate data from multiple users and provide group-level feedback: [1,3,6] share physical activity metrics to motivate people to exercise; [5] demonstrates an application that displays, in real time, conversational dominance to persons participating in a meeting; [7] presents applications that convey states of presence or absence to intimate partners.
 
@@ -30,7 +30,7 @@ While these questions focus around group settings, I am also interested in explo
 
 <!-- Algorithms for analyzing sensor data are becoming more robust, enabling software to learn about more than a person's physical activity: recent work has draw inferences about users' mood and attitude [] and, by sampling data from multiple users at once, researchers have been able to make group-level social observations as well [].  -->
 
-## References
+### References
 
 [1] Aharony, Nadav, Wei Pan, Cory Ip, Inas Khayal, and Alex Pentland. “The Social fMRI: Measuring, Understanding, and Designing Social Mechanisms in the Real World,” 445. ACM Press, 2011. doi:10.1145/2030112.2030171.
 

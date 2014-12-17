@@ -1,6 +1,7 @@
 ### todo:
 
-- rebuild the app up starting from well-made models!
+- write the tests and the models side-by-side
+- only afterward, refactor the server code
 
 
 ### work queue:
