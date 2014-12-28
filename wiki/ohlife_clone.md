@@ -1,3 +1,20 @@
+## design principles:
+- main idea is to lower the barriers to the "reflection cycle"
+- its up the the user (me) to secure or encrypt their entires
+
+
+## work queue
+.  
+- write a function that generates a UserResponse + sends an email to user.email
+
+- a script script recieves my emails and
+- finds the "id" (after the +)
+- find the body of my message
+- deletes the email in the mailbox
+
+now it can save the body under the user response of the right id and delete the email in the mailbox.  if that user response already has a body, make a new response with that entry.
+
+---
 a python script that 
 
 1. finds the body of the message

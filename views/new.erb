@@ -9,6 +9,7 @@
     </style>
 
 <form action="/p/save" method="post">
+	<input class="title"  type="text" name="filename" id="filename" placeholder="Page name" <%= "value=\"#{@newpagename}\"" if @newpagename %> />
       <textarea id="content" name="content" placeholder="write a page....."></textarea>
    <input type="submit" value="Save page" onclick="postContent()">
 </div>
