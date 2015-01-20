@@ -1,16 +1,51 @@
-## big major feature: home screen
+[[dcom copy]]   
+[[dcom crypto]]
 
-## big major thought for mobile: push notifications
+## organization
+
+open-source-company-nonprofit.
+
+1. look into 290M readings, see if theres anything in there about this.
+
+2. make a wiki, or an issue ticket thread, somewhere where **people can participate**
+
+3. figure out how profits are split,,,,,,,,,
+
+alternatively/along with, see [[forming a nonprofit]]
+
+## $$$
+
+- [[dcom funding video]] 
+
+---
+
+## improvements
+- when you close your laptop and reopen, not clear if it's conected or waht
+
+- it should pop up with a warning when you're not connected.
+
+- it auto-should reconnect after minor blips
+
+- large gifs should not load
+
+- images should be served https
+
+## more minor
+
+- should do st when javascript needs to be enabled
+
+- dcom take donations: paypal, flattr, btc….1/4 reqs ?
+
+----
 
 ## work queue
-- should offer a little popup w number of messages you missed
-- poke around for splash page templates
+- allow multiline copy paste
+- when scrolled up, number missed should appear in title   (lil big details)
 
 ## seems necessary
 - mute sound checkbox
-- all colors should be legible against the bg
-- a "learn more" thing w/r/t the key
-- allow multiline copy paste
+- a "learn more" thing w/r/t the key (or remove key for now)
+- adding "(using key)" to usernames is a huge hack and should be replaced with something in the protocol
 
 --- 
 ## longer-term feedback 
@@ -57,3 +92,7 @@ ben	privacy
 could charge for the app that uses might root server
 
 and then also offer devs the chance to use their own app, but force them to host rooms made there?
+
+big major thought for mobile: push notifications on room/enter/exit
+
+possibility of implementing [deffie-helman key exchange by default](http://crypto.stackexchange.com/questions/1150/encrypting-and-obscuring-data-between-site-user-without-ssl)

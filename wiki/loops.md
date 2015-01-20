@@ -1,16 +1,11 @@
 ### todo:
 
-- write the tests and the models side-by-side
-- only afterward, refactor the server code
-
+- switch theme to [cosmo](http://bootswatch.com/cosmo/#)
+- write a script that proves database stuff works 
+- make a view for each model (read: import front-end player, misc other crap)
 
 ### work queue:
 
+- as a general rule, think, what if each model had a 1:1 mapping to views?
 - users can have Favorites
 - songs have an order in each collection
-
-## then....
-
-- start an __init__ thats real modular
-- adapt ``tests.py`` for each function in the 'flow'
-- now you can work on a frontend again~

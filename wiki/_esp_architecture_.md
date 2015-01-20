@@ -1,18 +1,13 @@
-## overall direction
+sensors should be able to move fluidly between wearability on humans/passive sensing in the environment
 
-there is no difference between sensors on our body or in our environment. collecting sensors around physical people is a human organization scheme that pigeonholes us into certain types of interpretations.  
+wearable devices will create a personal cloud/personal mesh, which will offer a value separate from what wearables folk are thinking about today
 
-first, we should be able to work with any sensor producing any stream of data. we don't care what data the sensors are producing, we just assume that there are *some* statistical regularities/trends in those data over time 
+physiological signals will provide an added value, but their fulll potential will be unlocked when they can be related to stimuli int he environment, or contextualized along with the physiologcal responses of other, socially relevant persons
 
-second, we should be able to configure these sensors in such a way that they can be transferred between people, or between people and the environment, fluidly, while continuing to make observations
-
-now we are just **data in space.** streams of data attached to points in space. now things are interesting.
-
-## work queue
-
--- draft up my big Q's and send them to arash
-
-
-## Big Q's
+## questions
 
 1. When dealing with streaming information from biosensors, not every point of data matters. We're much more interested in an overall *model* of the data. **To what extent is it possible to replace a database with a model**?
+
+2. What are the possibilities for decentralizing the collection of data? Say I want to give you my data, but just you and not some intermediate party - what might this architecture look like?
+
+cf. [[indra]], [[long-term/social physio visualization]], [[_esp_]]
