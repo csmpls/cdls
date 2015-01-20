@@ -3,6 +3,7 @@ require 'rubygems'
 require 'sinatra'
 require 'erb'
 require 'yaml'
+require 'json'
 
 class CommonplaceServer < Sinatra::Base	
 	configure do 
@@ -66,7 +67,7 @@ class CommonplaceServer < Sinatra::Base
 	# accept updates to a page
 	post '/p/:page/edit' do
 		page = @wiki.save(params[:page], params[:content])
-		redirect "/#{page.permalink}"
+		{:'status'=>'saved'}.to_json
 	end
 
 	# create a new page
