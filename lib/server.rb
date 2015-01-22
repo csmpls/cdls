@@ -66,8 +66,10 @@ class CommonplaceServer < Sinatra::Base
 	
 	# accept updates to a page
 	post '/p/:page/edit' do
-		page = @wiki.save(params[:page], params[:content])
-		{:'status'=>'saved'}.to_json
+                json_data = JSON.parse request.body.read
+		page = @wiki.save(params[:page], json_data['content'])
+                content_type :json
+		{:status => 'ok'}.to_json
 	end
 
 	# create a new page

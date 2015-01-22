@@ -1,0 +1,11 @@
+<Files ~ "^\.(htaccess|htpasswd)$">
+deny from all
+</Files>
+Options Indexes
+AuthUserFile /home/sawstudents/webapps/cdls/.htpasswd
+AuthGroupFile /dev/null
+AuthName "??????????"
+AuthType Basic
+require valid-user 
+order deny,allow
+
