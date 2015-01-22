@@ -10,22 +10,12 @@
 
 <form id="postSubmissionForm" action="/p/<%= @page.permalink %>/edit" method="post">
       <textarea id="content" name="content" placeholder="write a page....."><%= @page.raw %></textarea>
-   <input type="submit" value="Save page" onclick="postContent()">
 </div>
 </form>
+
+<div id="saveStatus"></div>
 
 
     <!-- only required for loading sample markdown into the textarea -->
     <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/zepto/1.0/zepto.min.js"></script>
-    <script type="text/javascript">
-
-    var editor = new Editor();
-    editor.render();
-
-    function postContent() {
-      var content = editor.codemirror.getValue();
-      $('.content').html(content);
-      $('postSubmissionForm').submit();
-    }
-     
-    </script>
+    <script type="text/javascript" src="//cdls.cosmopol.is/js/editpage.js"></script>
