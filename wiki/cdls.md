@@ -1,4 +1,3 @@
+autocomplete page names when you type [[
 
-async save
-
-autocomplete tag names
+maybe a subtle popup with "rooms youve recently visited"
