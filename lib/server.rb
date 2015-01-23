@@ -54,7 +54,7 @@ class CommonplaceServer < Sinatra::Base
 		@page = @wiki.page(params[:page])
 		
 		if @page
-			@name = "Editing " + @page.name
+			@name = 'Editing <a href="//cdls.cosmopol.is/' + @page.permalink+ '">' + @page.name + '</a>'
 			@editing = true
 			erb :edit
 		else

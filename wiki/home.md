@@ -4,7 +4,7 @@ good songs lately
 - lil wayne - no type  
 - lil wayne - you guessed it - 1:42 ->
 
-[[dcom]]  [[learning webapps]] [[words]]
+[[dcom-research]]  [[learning webapps]] [[words]]
 
 [[cdls]] [[growing]]
 
