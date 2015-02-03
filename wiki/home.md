@@ -3,11 +3,12 @@ good songs lately
 - tink - fly away  
 - lil wayne - no type  
 - lil wayne - you guessed it - 1:42 ->
+- dj sprinkles - 
 
-[[dcom-research]]  [[learning webapps]] [[words]]
+[[dcom-research]]  [[learning webapps]]  [[cdls]]
 
-[[cdls]] [[growing]]
+[[concepts]] [[interface aesthetics]] 
 
 ---
 
-[[concepts]] [[inspiring things]]
+[[inspiring things]] [[words]] [[growing]] 
