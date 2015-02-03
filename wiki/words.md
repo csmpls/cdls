@@ -5,3 +5,7 @@
 **data munging** or data wrangling
 
 **panacea** cure-all, pan-akos(remedy)
+
+**ostensive[ly]** - directly or clearly demonstrative
+
+**upshot** - the final or eventual outcome or conclusion 

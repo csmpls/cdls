@@ -37,3 +37,38 @@ discrete: finite symbols; 1.1 we see "bits per second"; 1.2 we start to motivate
 versus continuous: e.g. ECG
 
 II.XI - noise; signal does nota lways undergo same change in transmission ,, idea of error correction - related to [nyquist-shannon sampling](http://en.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem) - 'The sampling theorem introduces the concept of a sample-rate that is sufficient for perfect fidelity for the class of bandlimited functions'
+
+## 4
+
+[fred dretske - the epistomology of belief](http://link.springer.com/article/10.1007%2FBF00485371) - " example of "tricking" the barometer by putting it in a barometric chamber, or "tricking" the frog by projecting dark spots on the wall. have we really tricked them? do they really have a concept of altitude, or flies, respectively? to have the concept of X, it is not enough to be able to classify Xs and non-Xs: 
+
+> Unless the information that the X's are X is
+made available to the learner (or instrument), and it is this information
+that is used to discriminate and classify, the system will not be
+representing anything as an X
+
+and how concept of knowledge tells us somehing about the concept of information
+
+> the epistemic character of the concept of information and
+its connection with knowledge. [..] what concept a person acquires during learning, and hence
+what beliefs he is henceforth capable of holding, is restricted to the
+kind of information he is capable of picking up and processing. But, in
+virtue of the connection between information and knowledge, we now
+see that this is equivalent to saying that the beliefs a person is capable
+of holding as a result of learning are restricted to the sorts of things
+that that person (given his information processing resources) is
+capable of knowing.  **The argument is rather simple so let me recapitulate. To learn what
+a dingbat is, and hence to acquire the conceptual resources necessary
+for believing that something is a dingbat, one must not only be exposed
+to dingbats, but to the information that they are dingbats. Not
+only must this information be made available, it must be picked up and
+used by the learner to guide his discriminatory and identificatory
+responses if he is to be credited with the relevant concept. Since this is
+so, the learner cannot come to believe something is a dingbat unless
+he has the cognitive (i.e., information processing) resources for knowing
+that something is a dingbat. **
+
+overal, **an individual can believe only what she has the resources for knowing**
+
+footnote 10
+
