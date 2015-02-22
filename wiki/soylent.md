@@ -1,7 +1,5 @@
-carbohydrate	22% 546 cal
+[recipe](http://diy.soylent.me/recipes/liberation-chow)
 
-Protein	45% 1117 cal
+472 g in a day
 
-Fat 33% 819 cal
-
-2482 cal
+one meal: 157g (137g powder + 20ml olive oil)

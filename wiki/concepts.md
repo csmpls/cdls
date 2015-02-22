@@ -40,7 +40,7 @@ II.XI - noise; signal does nota lways undergo same change in transmission ,, ide
 
 ## 4
 
-[fred dretske - the epistomology of belief](http://link.springer.com/article/10.1007%2FBF00485371) - " example of "tricking" the barometer by putting it in a barometric chamber, or "tricking" the frog by projecting dark spots on the wall. have we really tricked them? do they really have a concept of altitude, or flies, respectively? to have the concept of X, it is not enough to be able to classify Xs and non-Xs: 
+[fred dretske - the epistomology of belief](http://link.springer.com/article/10.1007%2FBF00485371) - " example of "tricking" an altimeter by putting it in a barometric chamber, or "tricking" the frog by projecting dark spots on the wall. have we really tricked them? do they really have a concept of altitude, or flies, respectively? to have the concept of X, it is not enough to be able to classify Xs and non-Xs: 
 
 > Unless the information that the X's are X is
 made available to the learner (or instrument), and it is this information
@@ -57,7 +57,9 @@ virtue of the connection between information and knowledge, we now
 see that this is equivalent to saying that the beliefs a person is capable
 of holding as a result of learning are restricted to the sorts of things
 that that person (given his information processing resources) is
-capable of knowing.  **The argument is rather simple so let me recapitulate. To learn what
+capable of knowing.  
+
+> The argument is rather simple so let me recapitulate. To learn what
 a dingbat is, and hence to acquire the conceptual resources necessary
 for believing that something is a dingbat, one must not only be exposed
 to dingbats, but to the information that they are dingbats. Not
@@ -66,9 +68,23 @@ used by the learner to guide his discriminatory and identificatory
 responses if he is to be credited with the relevant concept. Since this is
 so, the learner cannot come to believe something is a dingbat unless
 he has the cognitive (i.e., information processing) resources for knowing
-that something is a dingbat. **
+that something is a dingbat.
 
 overal, **an individual can believe only what she has the resources for knowing**
 
 footnote 10
+
+## 5
+
+[warren weaver - recent contributions to MTC 1948](http://courses.ischool.berkeley.edu/i218/s15/Weaver_Recent-Contributions.pdf) - shannon's work relates back to boltzmann's observations on 'statistical physics'. communications can be split into 3 problem spaces: technical (accuracy of symbols), semantic (precision of meaning), and effectiveness (leads to desired conduct). makes the point that shannon's theory at the first level is also a theory of the other levels.
+
+[norbert wiener - cybernetics (introduction)](http://babel.hathitrust.org/cgi/pt?id=uc1.b4424294;view=1up;seq=15) - 
+originally interested in partial differential equations; pg 10 suggests a binary computer with a memory 
+and a cache. he worked on aiming missles at moving targets. feedback is a crucial concept to him; this is missing in shannon's formulation.
+
+## 6
+
+[nunberg - farewell](http://people.ischool.berkeley.edu/~nunberg/farewell.pdf) - information in the "abstract" sense versus the kind you get at an information booth. there is a priviliged sense to information - i.e. a moulding of the mind - present 
+
+"i wrote this book for my own information" john locke; information as in *shaping of the mind*
 
