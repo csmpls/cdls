@@ -23,3 +23,5 @@
 **haecceity** - the quality of a thing by which it is describable as unique
 
 **misbegotten** - badly conceived/planned/designed
+
+**epiphenomenon** a side-effect

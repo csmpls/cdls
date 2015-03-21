@@ -88,3 +88,58 @@ and a cache. he worked on aiming missles at moving targets. feedback is a crucia
 
 "i wrote this book for my own information" john locke; information as in *shaping of the mind*
 
+## 7
+
+[stiglitz - information / change in paradigm](http://www.jstor.org/stable/3083351?seq=1#page_scan_tab_contents) - ** read quickly  - what is their idea of economics. **  first sentence equates knowledge and information. 
+
+[stigler](http://www.jstor.org/stable/1829263?seq=1#page_scan_tab_contents) - 
+what plausibly does symmetrical information mean? if this is ideal for economics.
+
+lazear's "economic imperialism" is a funny article.....economics has a **methodological individualism** (paul's term?). pickerty, in US caused trauma to say, "the economy does not preduce equality over time."
+
+### economistis on information
+hayek says: society's problem is a "division of knowledge" (1937). search for information == ascertainment of market price (stigler's view). fama's view: prices "reflect" information (are not informaiton themselves). 
+
+## 8
+
+* choose an example in which symmetry appears feasible in order to test stiglitz+akerlof's hypotheses might be true. mechanism of circuatlion, rpcoess of "assimilation" 9even "creation"), and the value of information, its relation to knowledge, or ways in which information imperfections might be different from assymmetries. what would we need to assume about the market, the goods, and the people involved? how far could we expect such assumptions to generalize?
+
+## final paper
+
+book or seminal paper from what you see as your primary field and anlyze its use of "information."  whet its internally consistent, similar to toher work in the field, or how it is used in other fields. consider the implications of the similarities and dinstinctions. 15-20 pages (i.e. an honest endavour).  **march 13** topic, **march 31** outline, **may 7** final presentations. **may 15** "camera-ready"
+
+honest signals - 
+
+## March 12
+
+we largely rely on government data to make arguments (statistics; units of measure; borders; etc)
+
+1826 - Society for the dissemination of useful knowledge - statistics is more important than government
+
+[surveillance and the capitalist state - anthony giddens](http://books.google.com/books?id=MVp0tMD_5f0C&pg=PA169&lpg=PA169#v=onepage&q&f=false) - information: symbolic materials that can be stored by an agency or collectivity. garnering of information relates to taxation
+
+[naming/the production of legal identities - james scott](http://www.jstor.org/stable/3879399) - patronymic names advanced property rights and priomgeniture regimes. state-making > names.
+
+## March 19
+
+[can online education improve excellence and access at berkeley? - anno](http://people.ischool.berkeley.edu/~anno/Papers/Online_Education_at_Berkeley.pdf). 
+
+[the university in the digital age - paul duguid](http://people.ischool.berkeley.edu/~duguid/SLOFI/U_in_Digital_Age.htm):
+
+ > We, however, doubt that the university will dissolve into cyberspace so easily. The idea of the virtual university, we suspect, both underestimates how universities as institutions work and overestimates what communications technologies do. Learning, at all levels, relies ultimately on personal interactions and, in particular, on a range of implicit and peripheral forms of communication that technology is still very far from being able to handle proficiently
+ 
+ the purchasing power needed to get a physical-campus degree rather than an online one will further stratify students
+ 
+ > it may be wiser to consider ways to divide each student's career between time better spent on campus or in communities and time better spent on-line-so that all may have the opportunity to experience the best of both worlds. [..] ** it may be better to think of it "looking" in many ways surprisingly similar but "being" very different, because the most profound changes may be those made in the institutional arrangements rather than the physical infrastructure that makes up what people think of as a university.**
+ 
+ > Our answers suggest that it is a mistake to think of the university "delivering" knowledge or students as "receiving" it. Central to higher education is the way universities provide access to communities of scholars and testimony for a student's experience among these communities.
+ 
+ > though it can seem a crude measure, in fact the exchange value of a degree remains a fairly sensitive indicator of the market status of a university, a degree, a discipline, and a graduate. [..] But we also want to suggest that degrees are actually more complex. *They don't simply either helpfully represent or unhelpfully misrepresent what universities do. Rather, they provide a helpful misrepresentation*-a misrepresentation that provides both universities and society with important slack in a system that should not be too taut. **The degree's exchange value gives both universities and students a certain license to do what the degree permits but cannot acknowledge. It allows students to "play the game" in varieties of creative ways, on the simple condition that in they end they "win" a degree. Behind the "front" of the diploma, students and faculty can undertake activities that are socially valuable but not easily evaluated for the market. Simultaneously, it gives the job market and society as a whole more diverse and versatile candidates than they probably know to ask for.**
+ 
+>  the core competency of universities is not transferring knowledge, but developing it, and that's done within intricate and robust networks and communities. 
+
+"the rudiments of community joining" == "begun to learn how to learn". the true value of an undergraduate degree. this is perhaps the most important thing i'll learn today.
+
+vicesimus knox, essays, 1778 uses term "age of information" [find pauls slides for the full quote]
+
+the nonequivalence of high school equivalents - cameron & heckman 1991
