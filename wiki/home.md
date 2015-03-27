@@ -1,4 +1,19 @@
-[[blog posts, i swear]]
+call NU about..my.name
+
+client refinement -> less complected,takes a callback or something (n times, save to a disk in another thread) [[3eg]]
+
+----
+weeekend
+
+----
+
+218 outline
+
+literature w noura
+
+tap reading list
+
+fix up [[indra]]
 
 
 ----
@@ -9,9 +24,9 @@
 
 ## [[dissertation]]
 
-[[dcom-research]]  [[learning webapps]]  [[cdls]]
+[[blog posts, i swear]]  [[learning webapps]]  [[cdls]]
 
-[[concepts]] [[interface aesthetics]] [[deep stack]]
+[[dcom-research]]  [[concepts]]  [[deep stack]]
 
 ---
 

@@ -25,3 +25,5 @@
 **misbegotten** - badly conceived/planned/designed
 
 **epiphenomenon** a side-effect
+
+**furtive** attempting to avoid notice or attention, due to guilt or a belief that detection would cause trouble

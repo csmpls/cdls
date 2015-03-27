@@ -1,10 +1,8 @@
 possible outlets: [[babies are psychic]], [[cdls]], [[mud]], [[muse-clone]]
 
-## bakbone
+learn virtualdom (or not)
 
-learn how to write tests
-
-and integrate tests (etc) with grunt
+write e2e tests
 
 ## meta
 
