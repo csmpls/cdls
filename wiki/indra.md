@@ -1,19 +1,3 @@
-## longoverdueupdates
-
-all client work on [[3eg]]
-
-### server side
-
-decouple indra-server and timeserver
-
-indra-server and event-server are one
-
-### client
-
-web client is outside somehow from the device client
-
-sends buffered data in rate-limited packets, if there is any
-
 ### scraper
 
 simple script that takes a starttime and and endtime and delivers a CSV:
@@ -22,11 +6,43 @@ simple script that takes a starttime and and endtime and delivers a CSV:
 
 and prints all the stimuli that happened in that interval!
 
-## event injector
+(node query -> python write to file)
+
+### server side
+
+buy a clean webfaction instance ::)))))
+
+build a dedicated timeserver
+
+think: *"how can i pipe today?"
+
+maybe routing and db-saving are different processes dnode
+
+maybe multiple instances + basic logging->analytics SaaS
+
+### client
+
+connected status in the UI + reconnects to the device on "stale" signal
+
+bad signal quality -> RED POPUP
+
+connection screen tries again + timeouts with a "reconnect" button + tips for pairing
+
+fun connection screen with facts 
+
+*if ok* disconnect from the device when navigating away from the page 
+
+confirm navigate away, "you're connected to indra! are you sure you want to disconnect from the indra network?"
+
+### event injector
 
 quick bacon.js project
 
-bonus interface show who's connected
+**bonus** interface show who's connected 
+
+fun at the end of the tunnel i guess
+
+----
 
 ## distributed 
 
@@ -36,13 +52,17 @@ bonus interface show who's connected
 
 now we can align anyone's data, so long as there is some chain of synchronizations between then
 
-then its just a matter of sharing data between peers
+thru **TOR** (duh)
 
 ### sane
 
-its dcom it relays data to everyone in the 'room', without saving it 
+its dcom it relays data to everyone in the 'room', without saving it.  15-sec caches. 
 
-## agnostic about schema
+you can just press "save" to capture it
+
+**produces a shared dataset that can be synchronised with video**
+
+### agnostic about schema
 what are the pros/cons of mongoDB? where might we see real gains, and what are some of the pitfalls?
 
 - pitfall: enabling apples to oranges data comparisons

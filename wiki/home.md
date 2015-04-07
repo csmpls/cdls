@@ -1,22 +1,60 @@
-call NU about..my.name
+banjo hook
 
-client refinement -> less complected,takes a callback or something (n times, save to a disk in another thread) [[3eg]]
+---
+
+**tap reading list! <- cogsci stuff + his lit**  *how does realtime biosignal data help children learn, reason, and form hypotheses about data?*
+
+---
+
+tuesday
+
+**218**
+
+*call NU about..my name*
+
+*print return label*
+
+**wire up arch interface**
+
+**swim**
+
+**[[3eg]] touches up**
+
+---
+
+weds
+
+The UPS Store®   
+THE UPS STORE   
+2342 SHATTUCK AVE, BERKELEY, CA, 94704-1517
+
+**continue on the [[game]]**
+
+look at toshiro's codE~
+
+john reading list
+
+literature w noura / grant
 
 ----
-weeekend
+
+business card
+
+218 final *presentation*
+
+[[john 4-2]] todos
+
+pack for LA
 
 ----
 
-218 outline
+LA weekend
 
-literature w noura
+an [[indra]] scraper (ssh cosmopol.is on the chromebook)
 
-tap reading list
+rest of the [[game]]
 
-fix up [[indra]]
-
-
-----
+[[elsehow]] 
 
 ## [[meetings]]
 
@@ -24,9 +62,7 @@ fix up [[indra]]
 
 ## [[dissertation]]
 
-[[blog posts, i swear]]  [[learning webapps]]  [[cdls]]
-
-[[dcom-research]]  [[concepts]]  [[deep stack]]
+[[concepts]] [[blog posts, i swear]]
 
 ---
 

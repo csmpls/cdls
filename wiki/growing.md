@@ -1,0 +1,1 @@
+> “It may well be the case that democracy and capitalism, which at moments in their youth were allies, cannot live together once both have come of age.” So wrote the historian EH Tawney in 1938.

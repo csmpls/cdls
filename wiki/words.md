@@ -27,3 +27,5 @@
 **epiphenomenon** a side-effect
 
 **furtive** attempting to avoid notice or attention, due to guilt or a belief that detection would cause trouble
+
+**surfeit** (n) an excess of something (v) to overfill; cram (a person)

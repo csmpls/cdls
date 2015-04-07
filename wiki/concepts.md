@@ -143,3 +143,124 @@ we largely rely on government data to make arguments (statistics; units of measu
 vicesimus knox, essays, 1778 uses term "age of information" [find pauls slides for the full quote]
 
 the nonequivalence of high school equivalents - cameron & heckman 1991
+
+## March 31
+
+### Interfaces as drivers of human behavior: Senses of "information" in wearable computing
+
+**notes** ask if "information" is internally consistent; contrast 2 papers that should be compatable, see that they are not talking about the same thing. **paper by klein in beginning - management science**. 
+
+Wikipedia defines bioinformatics as “an interdisciplinary field that develops methods and software tools for understanding biological data.” One might assume that wearable computers outfitted with biological sensors are bioinformatic tools. However, Sandy Pentland (some journalists have labeled him the “godfather of wearables”), who approaches wearable computing from computer science rather than from medicine, makes no explicit reference to the field of bioinformatics in his work, even though his studies focus primarily on monitoring and analyzing biological data.
+
+In this paper, I catagorize multiple senses of “information” as the word is used in Meeting Mediator (Kim, Chang, Holland & Pentland, 2008), a study in which physiological data are “mined” to provide feedback to participants in a meeting. I contrast these senses of “information” with those that arise in a bioinformatics methods paper with ostensibly similar themes, Data mining in bioinformatics. I offer the manipulation of human behavior as a theme to reconcile the senses presented by these two works, and gesture toward the role of the interface as an opinionated actor in the formation of insights from physiological data. I conclude with further questions and future work.
+
+I. Introduction   
+
+	a. summary and goals  
+	
+	b. introduction to the meeting mediator project  
+	
+		* description of the project  
+		
+		* introduction to pentland's body of work  
+
+			- ease the reader into the comparison between this particular paper and bioinformatics by introducing some of Pentland's other work, in which feedback is displayed to researchers, not to the persons being sensed.
+		
+		* computational social science and its origins in management science  
+			
+			- Dennis, A.R. Information exchange and use in group decision making: You can lead a group to information, but you can’t make it think. Management Information Systems Quarterly 20, 4 (1996), 433-457.
+			
+			c. introducing *Data mining in bioinformatics* as a point of comparison
+
+II. "Information" in meeting mediator  
+
+	a. introduction  
+	
+	b. "information" as data in meeting mediator    
+	
+	c. "information" as social signal in meeting mediator    
+	
+	d. why these senses? "information" in management science and in computer science  
+	
+III. "Information" in Data mining in bioinformatics
+	
+	a. introduction
+	
+	b. "information" as discrete from data, and from knowledge
+	
+	c. "information" as observations on data
+
+	d. why these senses? the role of observations on data in medicine
+
+IV. Reconciling (some) sense information, and gesturing toward the interface as a highly-opinionated mediator between data and human observation
+
+	a. Information as human insights about machine-interpreted data
+
+	b. Information as a driver of human behavior
+		
+	c. The role of software interfaces in manipulating human observations
+	
+V. Conclusion
+
+	a. summary
+	
+	b. further questions
+	
+	c. future work
+
+
+## April 2
+
+[john gray](http://www.theguardian.com/books/2015/mar/13/john-gray-steven-pinker-wrong-violence-war-declining) - pinkers argument is wrong
+
+[pinker](http://www.theguardian.com/commentisfree/2015/mar/20/wars-john-gray-conflict-peace) - john gray is "flat earth" wrong
+
+[habermas - structural transformation of the public sphere, 1991](http://courses.ischool.berkeley.edu/i218/s15/Habermas_STBPS_I.Intro.pdf) - go-to person for "public sphere" internet citations. even tho he wrote about the 18th century. cafes as a center for democracy/a place where you read newspapers.
+
+## April 7
+
+**canonical**   
+[The virutal sphere: The internet as a public sphere - Zizi Papacharissi](http://nms.sagepub.com/content/4/1/9.full.pdf+html) -  (1) "the data storage and
+retrieval capabilities of internet-based technologies infuse
+political discussion with information otherwise unavailable" (2) CMC "frequently fragmentize political discourse". distinguishes between 'public space' and 'public sphere'
+
+[net as a public sphere - mark poster](http://archive.wired.com/wired/archive/3.11/poster.if_pr.html) - "Disembodied exchange of video text is not a substitute for face-to-face meeting" - but isnt it just as valuable sometimes " Dissent on the Net does not lead to consensus: it creates the profusion of different views."  This is ridiculous
+
+[the net is not a public sphere - jodi dean](http://onlinelibrary.wiley.com/doi/10.1111/1467-8675.00315/abstract) - "communicative capitalism". public sphere is: site, goal, means, norms, vehicle. "consider the problem of configuring the Net as a public sphere as one that can be addressed through ideology critique" - 
+
+> . But, the idea of a face-to-face inter-
+action needs to be understood as imaginary, as a fantasy that relies on its opposition to “mediated interactions” for it claim to be “inherently richer.” All interactions are mediated; there is no pure, immediate, fully-present, fully-transparent encounter. 
+
+ppl are all: net isnt enough like public sphere thats the problem; OR: net is too much like public sphere thats the problem
+
+> New media present themselves for and as a demo-
+cratic public. They present themselves for a democratic public in their eager offering of information, access, and opportunity. They present themselves *as* a
+democratic public when **the very fact of networked communications comes to
+mean democratization, when expansions in the infrastructure of the information
+society are assumed to be enactments of a demos.**
+
+but
+
+> Saskia Sassen’s research [..] makes clear, the speed, simultaneity, and
+interconnectivity of electronic telecommunications networks produce massive
+distortions and concentrations of wealth.
+
+
+> The idea of multiple realities is one of the most
+pernicious today. There is one reality. It is a site of conflict. [..] to claim that there are multiple realities is
+to fall into traps similar to those that affect those who see the Net as a public
+sphere
+
+rather
+
+> a "zero institution" straus>zizek > "make no normative claims", "no positive function"
+
+..
+
+>  The Web is commu-
+nicative capitalism’s imaginary of uncontested, yet competitive, global flow. And
+it is the Real of communicative capitalism, configuring the networks and flows
+
+
+profile on "Neodemocratizers
+

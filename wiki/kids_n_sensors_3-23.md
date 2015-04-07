@@ -12,6 +12,8 @@ dialogue btwn 2 kids and put it in your paper
 
 ### Integrating physical activity data technologies into elementary school classrooms - victor lee
 
+[here](http://digitalcommons.usu.edu/itls_facpub/252/)
+
 good literature review
 
 ### Lessons learned from an initial effort to bring a Quantified Self “meetup” experience to a new demographic - victor lee
@@ -49,6 +51,9 @@ scale. This was determined from a large number of
 measurements made across a broad range of weights.
 
 ### lee & dumont - An Exploration into How Physical Activity Data-Recording Devices Could be Used in Computer-Supported Data Investigations
+
+
+[here](http://digitalcommons.usu.edu/itls_facpub/139/)
 
 still very much about data - especially ideas of centerness in distributions of data. 
 

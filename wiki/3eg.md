@@ -1,23 +1,26 @@
 ## 3EG: Ear EEG (EEEG)
 
+## touches up
+
+script unresponsive on page
+
+doesnt let you record until you pick some task
+
+sketch out analysis pipeline -- cosine similarity
+
+bring neuroskies
+
+### global priorities
+
+1. collect data on forehead + ear, individual-by-individual, look at classifiability of task-pairs
+
+2. indra scraper + event
+
 ### modular client
 
-how can we make it less complected?
-
-how can we separate pairing/maintaining connection
-
-with whatever we do with the data?
+for [[indra]] just need to figure out where the timing bit goes - but my instinct is that the flask server communicates with the world, and the ```mindwave_client``` just communicates with the flask server
 
 **REMEMBER**:  when you get a `signal_quality` event, that refers to the reading BEFORE, not the reading after.
-
-**REMEMBER**: must have an an `initialized` value that turns true when we're getting good readings (at beginning)
-
-### application layer
-
-pair,   
-tell me when we're getting good readings
-
-now i can start an n-frame recording whenevs
 
 ### user interface
 when the device is paired, show a URL to go to (or just open browser)
