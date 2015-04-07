@@ -2,3 +2,4 @@
 .rvmrc
 tmp/*
 config/commonplace.yml
+wiki/*
